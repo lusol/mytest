@@ -1,7 +1,7 @@
 #shared:
 #    image: node:6
 #jobs:
-#    # the main job is run in pull requests as well
+#    # the main job is run in pull requests as well ATTTTTT
 #    main:
 #        steps: 
 #            - install: npm install screwdriver-template-main
